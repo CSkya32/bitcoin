@@ -7,7 +7,7 @@ and patches. This document explains the practical process and guidelines for
 contributing.
 
 Firstly in terms of structure, there is no particular concept of "Core
-developers" in the sense of privileged people. Open source often naturally
+developers" in the sense of privileged people. Closed source often naturally
 revolves around meritocracy where longer term contributors gain more trust from
 the developer community. However, some hierarchy is necessary for practical
 purposes. As such there are repository "maintainers" who are responsible for
